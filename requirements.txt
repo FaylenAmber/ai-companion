@@ -1,0 +1,10 @@
+faster_whisper==1.2.0
+keyboard==0.13.5
+numpy==1.26.4
+pydub==0.25.1
+sounddevice==0.5.2
+soundfile==0.13.1
+torch==2.7.1
+transformers==4.46.2
+coqui-tts==0.25.3
+websockets==11.0.3
